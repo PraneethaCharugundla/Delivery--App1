@@ -1,6 +1,5 @@
 import ReactDOM from "react-dom/client";
 import AppLayout from "../App";
-import "./index.css"
 
 
 
@@ -8,4 +7,4 @@ import "./index.css"
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 
-root.render( <AppLayout/ > );
+root.render (<AppLayout/> );

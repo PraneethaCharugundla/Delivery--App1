@@ -9,7 +9,8 @@ const Body = () => {
 <input type="text"
  className="search-input" 
  placeholder="Search"
-value=""
+value={searchText}
+onChange={() => onChangeInput}
 />
 <button className="search-btn">Search</button>
         </div>
