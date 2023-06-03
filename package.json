@@ -4,7 +4,8 @@
   "description": "An app for food delivery",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "react-scripts start"
   },
   "author": "praneetha",
   "license": "ISC",
@@ -15,6 +16,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-scripts": "3.4.3"
   }
 }

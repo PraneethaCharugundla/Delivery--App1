@@ -1,5 +1,3 @@
-
-
 import { restauratList } from "../../constants";
 import RestaurantCard from "./RestraurantCard";
 
